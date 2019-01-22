@@ -5,8 +5,8 @@
 
 .header {
     height: 400px;
-    background-color: cornflowerblue;
-    color: lemonchiffon;
+    background-color: lemonchiffon;
+    color: gray;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -17,6 +17,13 @@
 .content {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
+}
+
+.section {
+    border: 5px solid gray;
+    border-radius: 5px;
+    margin: 50px 5px;
+    padding: 5px 10px;
 }
 
 h2 {
