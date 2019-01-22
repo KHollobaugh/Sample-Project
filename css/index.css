@@ -13,3 +13,18 @@
     align-items: center;
     margin: 0 auto;
 }
+
+.content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+h2 {
+    color: olive;
+}
+h3 {
+    color: olive;
+}
+h4 {
+    color: olive;
+}
