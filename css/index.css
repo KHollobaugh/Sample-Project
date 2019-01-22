@@ -28,3 +28,7 @@ h3 {
 h4 {
     color: olive;
 }
+
+.footer {
+    border-top: 5px solid gray;
+}
